@@ -12,17 +12,6 @@ I am Vikram M. ,a CS undergrad and Frontend Developer.
 - 🌱 I’m currently learning React, and lil bit of Cloud Computing
 - ⚡️ I enjoy learning about new technologies
 
-
-Connect with me:
-
-[![website](./img/globe-light.svg)](https://medium.com/@m8vikram#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://medium.com/@m8vikram#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vikram-in/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vikram-in/#gh-dark-mode-only)
-&nbsp;&nbsp;
-
-
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
