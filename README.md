@@ -3,7 +3,7 @@
 ## Hey there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 
-I am Vikram M. ,a CS undergrad and Frontend Developer.
+I am Vikram M ,a CS undergrad and Frontend Developer.
 
 
 - 🏢 I'm currently pursuing 3rd year of B.E CSE at St. Joseph's College of Engineering, OMR
