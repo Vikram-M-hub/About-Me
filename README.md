@@ -3,13 +3,12 @@
 ## Hey there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 
-I am Vikram M ,a CS undergrad and Frontend Developer.
+I am Vikram M ,a CS undergrad and Software Developer.
 
 
-- 🏢 I'm currently pursuing 3rd year of B.E CSE at St. Joseph's College of Engineering, OMR
+- 🏢 I completed my B.E in CSE at St. Joseph's College of Engineering, OMR
 - ⚙️ I use daily:  `.py`, `.html`, `.css`, `.js`, `.java`
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vikram-in/)
-- 🌱 I’m currently learning React, and lil bit of Cloud Computing
 - ⚡️ I enjoy learning about new technologies
 
 
